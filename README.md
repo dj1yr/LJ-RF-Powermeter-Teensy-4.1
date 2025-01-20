@@ -14,14 +14,14 @@ The board was designed with Kicad and the housing parts are designed with Invent
 **Revisions:**
 
 REV3n:
--add extender card
--many changes
++add extender card
++many changes
 
 REV4n:
 **BETA**
 last changes from Johan (PD0LEW) - Beta!
--add LAN on ESP32 with W5500
--add USB-C connector, connected on Teensy
--add extra display header (J4)*
--add USER IO to ESP32
--removed USER IO from teensy*
++add LAN on ESP32 with W5500
++add USB-C connector, connected on Teensy
++add extra display header (J4)*
++add USER IO to ESP32
++removed USER IO from teensy*
