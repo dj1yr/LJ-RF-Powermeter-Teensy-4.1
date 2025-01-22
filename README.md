@@ -32,9 +32,8 @@ last changes from Johan (PD0LEW) - Beta!
 
 -add USB-C connector, connected on Teensy
 
--add extra display header (J4)*
+-add new display header
 
 -add USER IO to ESP32
 
--removed USER IO from teensy*
 
