@@ -1,5 +1,5 @@
 Here is a collection of files for the RF Powermeter with Teensy 4.1 (a Teensy 4.0 can also be used with restrictions).
-Since I could not find any board files, I designed two boards based on Robert Entwistle and really impressive Software from Johan G. Holstein (PD0LEW), WA2T.
+Since I could not find any board files, I designed two boards based on Robert Entwistle (WA2T) and really impressive Software from Johan G. Holstein (PD0LEW).
 The Rev3n is based on a mainboard on which different RF boards can be plugged to find the best solution for each application.
 
 
