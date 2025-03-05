@@ -468,7 +468,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "PowerMeter_REV35_2in_HMC_extender.kicad_pro",
+    "filename": "PowerMeter_REV36_2in_HMC_extender.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -504,7 +504,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "PowerMeter_REV35_2in_HMC_extender_Gerber/",
+      "plot": "PowerMeter_REV36_2in_HMC_extender_Gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "PowerMeter new Teensy4_1.step",
