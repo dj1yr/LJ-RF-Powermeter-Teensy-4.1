@@ -267,7 +267,7 @@
 		(property "Reference" "C36"
 			(at -2.45 5.4 90)
 			(layer "F.SilkS")
-			(uuid "af95b569-edfc-489b-aa32-577a983ed62e")
+			(uuid "83bce1d2-0f47-4291-a30a-06224b2b5db5")
 			(effects
 				(font
 					(size 1 1)
@@ -278,7 +278,7 @@
 		(property "Value" "100uF"
 			(at 0 5.2 90)
 			(layer "F.Fab")
-			(uuid "1d24295c-295e-4914-9318-2c0fb8fa76bf")
+			(uuid "3916a3b0-bd65-4e3c-8949-a12270efb5a9")
 			(effects
 				(font
 					(size 1 1)
@@ -291,7 +291,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "338fcb00-5374-4543-8166-59f94c57dd55")
+			(uuid "5ca1bc84-2daf-420c-a5e2-2bf7174bc176")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -304,7 +304,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "830957b9-0105-48df-b975-eafb5e1e1599")
+			(uuid "60b32413-1164-422b-82ee-b8feda6f5aa5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -315,7 +315,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/76f57f81-273e-4caf-888a-221bdb86fb19")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 4.26 -4.26)
@@ -773,7 +773,7 @@
 		(property ki_fp_filters "D*SMA*")
 		(path "/31c854ef-3626-4d7c-86bf-5c27c3bdf961")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.51 -1.65)
@@ -1046,7 +1046,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/17a82c70-19f5-48cd-8354-b33d92974b77")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.195563 4.26)
@@ -2133,7 +2133,7 @@
 		(property ki_fp_filters "*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*")
 		(path "/c11fcfe8-827b-4b27-b3d7-5bd4277e7207")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -3.355 -1.45)
@@ -2402,7 +2402,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7f62772e-e355-4af8-a928-4784cf96d16c")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -2603,7 +2603,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/d7b47508-f394-4393-ac15-bf2eb4821c0e")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -2804,7 +2804,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/818d2d4f-d726-4b17-ac2b-6222d3bd04dd")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.602064 0.91)
@@ -3007,7 +3007,7 @@
 		(property ki_fp_filters "ESP32?WROOM?32*")
 		(path "/5395c443-dfc5-47b5-87ba-08c0799dcd69")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -9.12 -10.1)
@@ -3834,7 +3834,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/3fd5219c-1f94-42f7-93b3-6461b3c0e688")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -5.5 -2.21)
@@ -4267,7 +4267,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/a3277753-2558-4dee-88f9-f878744b5151")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -3.29 22.99)
@@ -4847,7 +4847,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/2fb84b7b-01b1-452f-b6b0-3b52b69aa440")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -5008,7 +5008,7 @@
 				)
 			)
 		)
-		(property "Value" "100uF"
+		(property "Value" "10uF"
 			(at 0 5.2 0)
 			(layer "F.Fab")
 			(uuid "7999e829-0c12-4efe-8c07-3a8fcce053a4")
@@ -5048,7 +5048,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/ca84fcc1-428b-43a6-bf2f-ec9341e21be7")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 4.26 4.26)
@@ -5480,7 +5480,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/d96014cf-838d-4c0d-a967-feef60a3634e")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1 -0.96)
@@ -5703,7 +5703,7 @@
 		(property ki_fp_filters "Converter*DCDC*TRACO*TSR?1*")
 		(path "/1ee03982-84fb-40d1-9788-03a808698ca8")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -3.75 2.45)
@@ -5970,7 +5970,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/76c0d63c-9ce0-4442-8d56-fea136714ae7")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5.11 2.31)
@@ -6327,7 +6327,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8f500c89-0e20-4c36-ac09-237de99148c4")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -6528,7 +6528,7 @@
 		)
 		(path "/0e38a980-7569-4063-ae33-e993167d2a35")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr through_hole)
 		(fp_arc
 			(start -3.9 1.499999)
@@ -6699,7 +6699,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/0f7dd563-40bf-4bcb-ad6e-80bdc652aae8")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -3.29 15.37)
@@ -7183,7 +7183,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/d0448dcb-f46a-4897-957a-43bfcd14db05")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -7384,7 +7384,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/0bcbc590-c840-474c-b846-8203fe8b6dbc")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -7585,7 +7585,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/fc5d8fa1-6f41-40ce-88e3-ecb9f7b7b20f")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.195563 4.26)
@@ -8017,7 +8017,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/63e83a31-c5dc-4ddf-93d4-0df6c89a0a60")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -8763,7 +8763,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/0e17a6e3-7ede-4543-b02a-3b09915e246f")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1 -0.96)
@@ -8986,7 +8986,7 @@
 		(property ki_fp_filters "Relay*DPDT*FRT5*")
 		(path "/89f7267e-abeb-4a2b-a741-f9d3268f4456")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.27 -2.286)
@@ -9385,7 +9385,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/9894cfb1-cb29-4740-88b2-5577246d04b1")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 4.26 4.26)
@@ -9817,7 +9817,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/2270fe68-6519-41be-9c88-8cd2767e0c59")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1 -0.96)
@@ -10040,7 +10040,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/6dc288ed-dba4-4c0d-aff6-d0235a7100b2")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1 -0.96)
@@ -10264,7 +10264,7 @@
 		(property ki_fp_filters "*SW*KMS2*GP*")
 		(path "/6f295644-1455-45e9-8204-89e19c219c14")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.21 -1.56)
@@ -10561,7 +10561,7 @@
 		(property ki_fp_filters "*polyfuse* *PTC*")
 		(path "/6a34ebc6-85df-402f-81aa-aa221dcac13a")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.052064 -1.71)
@@ -10762,7 +10762,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8ed1e1eb-571c-42cc-8d13-4f2d46dde518")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -10963,7 +10963,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/e83c59e2-8e4e-45f7-91ea-2f5edc214fa1")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.602064 -1.36)
@@ -11166,7 +11166,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/c2e6d216-fd6a-4b3b-b729-dde962f4e40c")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 10.11 -1.71)
@@ -11544,7 +11544,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/4091f1fa-4715-4258-b9b2-f01af5b42c48")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 4.26 4.26)
@@ -11976,7 +11976,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/044fe08d-f133-40d8-9b77-ab3645bb6093")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -12177,7 +12177,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/120b1bd7-aad6-4c47-9116-61490398a274")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 0.91)
@@ -12378,7 +12378,7 @@
 		(property ki_fp_filters "SOT?223*TabPin2*")
 		(path "/2bbb0181-eab0-46d2-96f9-78b8f1653e5a")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.85 -3.41)
@@ -12643,7 +12643,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/cee12179-badf-4a1f-9ad2-45a926760e79")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1 -0.96)
@@ -12866,7 +12866,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/af519587-0249-452f-96b5-f05fdfe80f83")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.602064 -1.36)
@@ -13069,7 +13069,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f9488879-e18a-48d0-8871-6173e629c342")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -13268,7 +13268,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/ec6eb650-4642-4d64-b88d-5dd191cdf92f")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 1.56)
@@ -13518,7 +13518,7 @@
 		)
 		(path "/8d06c0c0-7649-4b00-80be-555fa0e4743e")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 30.48 -8.89)
@@ -14850,7 +14850,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/879cd608-9672-4e68-86c3-1ba600e193be")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.602064 0.91)
@@ -15053,7 +15053,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/37cc9f50-b872-40de-b19c-697b1789043f")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.87 -1.33)
@@ -15420,7 +15420,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/c58d1217-406c-4a3f-b2e0-3efa8550509c")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -15626,7 +15626,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/448f3805-815b-44a6-a819-d93f35571d60")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.602064 0.91)
@@ -15832,7 +15832,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/e38b5757-5d2e-4182-b6e3-94d1a1a988e5")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -16038,7 +16038,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/6183f9a8-0f5f-4c19-b460-9aee4943ceb8")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.227064 0.735)
@@ -16244,7 +16244,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/bd4671eb-1e09-4252-8432-49839fd7ebcb")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.602064 0.91)
@@ -16452,7 +16452,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a5518a63-e783-454d-9b62-9bde90e90c4c")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.227064 -0.735)
@@ -16658,7 +16658,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/afd34ab7-2c0b-4d79-905f-094e3dccf0d8")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.602064 0.91)
@@ -16866,7 +16866,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/2b6e733e-232b-4c98-948b-6585f19c6b74")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.65 -1.56)
@@ -17126,7 +17126,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/cc81be35-6f36-4f24-a86e-25077ef2c9f9")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.711252 0.91)
@@ -17332,7 +17332,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/9f3726dc-da26-439a-8457-80530e324601")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.711252 0.91)
@@ -17538,7 +17538,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/d5c772d9-f0f1-441d-82e2-ee8e39bc678d")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.711252 -0.91)
@@ -17744,7 +17744,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f99cc922-5848-4ec5-bf5a-0af05ae74172")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.227064 -0.735)
@@ -17950,7 +17950,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/873a4a1e-e300-4634-9950-da3c6d97ef56")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.711252 -0.91)
@@ -18156,7 +18156,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/55c85684-dfdc-42aa-bfaf-1981cf88ca04")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.602064 0.91)
@@ -18362,7 +18362,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/6dd2df2d-1533-416a-92f9-899b0e410d27")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.602064 0.91)
@@ -18570,7 +18570,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/cde14e4f-3fd7-4c55-b5ce-a11c5db13186")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.711252 0.91)
@@ -18776,7 +18776,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/62c1b883-7f69-42dd-8330-4aaada7b6f2f")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -18982,7 +18982,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/1e599b88-ffbd-40f2-ab18-f5e1332a0d18")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.602064 0.91)
@@ -19190,7 +19190,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/b6d93cf6-7219-47d7-b6ed-3bc74c6e6c6a")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.602064 0.91)
@@ -19398,7 +19398,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/6ce81d04-847a-45d4-975b-b80ccf96ad0e")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.602064 0.91)
@@ -19606,7 +19606,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/93abbf53-d37d-4841-8a89-5e94dccf73fe")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.711252 0.91)
@@ -19812,7 +19812,7 @@
 		(property ki_fp_filters "SOT?23*")
 		(path "/a2f830f1-c3d9-4d97-9a80-383253614b6b")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.65 1.56)
@@ -20072,7 +20072,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/bfe98706-a0fb-4633-8cf5-a8ad0aa79694")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.227064 -0.735)
@@ -20278,7 +20278,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b6655d57-a3c2-472e-b274-3af7330684f2")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.227064 -0.735)
@@ -20484,7 +20484,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/78c70b75-9bb4-44a5-894c-8b44d9203749")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.711252 -0.91)
@@ -20690,7 +20690,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/0035ee98-e9af-474f-a454-24f20e57aebd")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.711252 0.91)
@@ -20896,7 +20896,7 @@
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
 		(path "/e52336c8-172b-4e10-b338-2972ed5598a3")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.602064 0.91)
@@ -21104,7 +21104,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4eeed1f4-497c-4239-b31b-3b5ea8a29b2b")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.227064 0.735)
@@ -21310,7 +21310,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/62a3c02c-b5ca-48e2-a5f6-11f2f0426b72")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0.711252 0.91)
@@ -21516,7 +21516,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/cccce3f0-708b-4f47-845c-7aa10b44c0a3")
 		(sheetname "/")
-		(sheetfile "PowerMeter_REV35.kicad_sch")
+		(sheetfile "PowerMeter_REV36.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.711252 -0.91)
@@ -23521,6 +23521,15 @@
 		(uuid "002880ab-17bf-4187-85ca-43949239c9a3")
 	)
 	(via
+		(at 151.35 132.65)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 15)
+		(uuid "006641ca-dc5e-4807-a9c9-0ef1a7d868c7")
+	)
+	(via
 		(at 160.37 136.93)
 		(size 0.6)
 		(drill 0.3)
@@ -23530,7 +23539,7 @@
 		(uuid "00da3f79-fd43-4490-a48a-fcb6b6fd86bc")
 	)
 	(via
-		(at 134.12 65.955)
+		(at 134.355 66.005)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -23674,7 +23683,7 @@
 		(uuid "0c936981-d0af-4c03-83f8-140a8ac6d0cd")
 	)
 	(via
-		(at 165.55 66.8)
+		(at 166.125 67.15)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -24034,7 +24043,7 @@
 		(uuid "2a997206-ac2b-43d7-82ec-b843df634907")
 	)
 	(via
-		(at 136.395 66.005)
+		(at 137.04 66.005)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -24115,7 +24124,7 @@
 		(uuid "35173433-422b-4069-9acf-5480ef4e5d6e")
 	)
 	(via
-		(at 139.4 60.05)
+		(at 139.75 59.425)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -24212,6 +24221,15 @@
 		(free yes)
 		(net 15)
 		(uuid "3a844fe6-a3d0-4d73-9c21-bff74009f8ba")
+	)
+	(via
+		(at 135.55 129.05)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 15)
+		(uuid "3b5e5cbc-85c1-46ab-add5-169bf745c3bd")
 	)
 	(via
 		(at 150.5 83.95)
@@ -24313,7 +24331,7 @@
 		(uuid "43e2687f-d05f-4c3e-ab5b-6ae2d59473d6")
 	)
 	(via
-		(at 108.97 99.43)
+		(at 109.275 99.725)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -24365,6 +24383,15 @@
 		(free yes)
 		(net 15)
 		(uuid "46dc9cc5-f41e-47e6-b2a2-b96a53421431")
+	)
+	(via
+		(at 175.95 70.9)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 15)
+		(uuid "47513915-d34c-42f1-b22c-5f9ea09ebd00")
 	)
 	(via
 		(at 142.715 56.37)
@@ -24448,7 +24475,7 @@
 		(uuid "4c8a7da2-8414-4cb2-ae48-bacfcc719774")
 	)
 	(via
-		(at 88.545 69.53)
+		(at 88.545 69.475)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -24565,6 +24592,15 @@
 		(uuid "51bce886-3ed4-4fc4-b3a9-32c2cd1c2878")
 	)
 	(via
+		(at 151.35 129.05)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 15)
+		(uuid "52028e65-b193-4fb4-be23-0ce06106f193")
+	)
+	(via
 		(at 203.15 131.95)
 		(size 0.6)
 		(drill 0.3)
@@ -24664,7 +24700,7 @@
 		(uuid "57f2aa40-c515-4bc9-aec7-a9d26f9fc63d")
 	)
 	(via
-		(at 145.81 60.5)
+		(at 145.775 61.075)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -24691,7 +24727,7 @@
 		(uuid "5964c4a3-cab1-4753-bf5c-376951ce18b3")
 	)
 	(via
-		(at 142.37 66.005)
+		(at 142.41 66.005)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -24916,7 +24952,7 @@
 		(uuid "668b8c91-829a-485f-82b8-c2fb3b6022f7")
 	)
 	(via
-		(at 127.9 53.55)
+		(at 128.525 52)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -24941,6 +24977,15 @@
 		(free yes)
 		(net 15)
 		(uuid "674ebcce-6359-4004-bcfe-04c1f84dd481")
+	)
+	(via
+		(at 136.7 61.25)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 15)
+		(uuid "67783086-280a-40fe-99e5-9401497bf1a8")
 	)
 	(via
 		(at 160.69 131.81)
@@ -25519,7 +25564,7 @@
 		(uuid "94e48212-38fe-43c1-afdb-083568ca3e93")
 	)
 	(via
-		(at 132.6 52.925)
+		(at 133.3 51.975)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -25654,7 +25699,7 @@
 		(uuid "a00b9280-6436-44c9-9f4e-71ba57e86619")
 	)
 	(via
-		(at 145.095 66.055)
+		(at 145.095 66.005)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -26005,7 +26050,7 @@
 		(uuid "ba5a9607-f2ed-4ecc-a6e8-a417fd805110")
 	)
 	(via
-		(at 98.22 68.98)
+		(at 99.4 69.475)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -26167,7 +26212,16 @@
 		(uuid "c5c653fd-9020-4539-a48e-77301f980b7e")
 	)
 	(via
-		(at 93.72 69.48)
+		(at 150.05 112.375)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 15)
+		(uuid "c6528a3c-8bd7-4547-8d44-d7b8a8d2c000")
+	)
+	(via
+		(at 93.9725 69.475)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -26275,7 +26329,7 @@
 		(uuid "cf57d399-3d4a-4e84-a9f4-b3377689628a")
 	)
 	(via
-		(at 139.095 66.005)
+		(at 139.725 66.005)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -26329,7 +26383,7 @@
 		(uuid "d500547b-4b84-4e53-b1e5-f2c70f4d99c1")
 	)
 	(via
-		(at 169.3 67)
+		(at 170.35 67.15)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -26464,7 +26518,7 @@
 		(uuid "e05761d3-af27-45c5-b398-ff9db7ff955e")
 	)
 	(via
-		(at 166.08 64.49)
+		(at 167.8 64.425)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -26653,7 +26707,7 @@
 		(uuid "eaa0b168-9125-47f5-ac8c-3c3fb9cbf18f")
 	)
 	(via
-		(at 131.67 65.955)
+		(at 131.67 66.005)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -26752,7 +26806,7 @@
 		(uuid "f4cf73ec-8ec7-4407-bef5-f1ff32bd46b1")
 	)
 	(via
-		(at 171.315 64.92)
+		(at 172.875 64.55)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
@@ -26822,6 +26876,15 @@
 		(free yes)
 		(net 15)
 		(uuid "faf16ef7-ad23-4ee1-88dc-94d4c064d570")
+	)
+	(via
+		(at 150.025 104.525)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 15)
+		(uuid "fb11b762-b795-427d-a267-76da5b10d9ef")
 	)
 	(via
 		(at 145.44 122.04)
